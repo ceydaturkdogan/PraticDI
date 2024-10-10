@@ -1,0 +1,6 @@
+@PraticDI_HostAddress = http://localhost:5258
+
+GET {{PraticDI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
